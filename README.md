@@ -1,6 +1,6 @@
 # GeoJSON Processing and Visualization
 ### From Raw Farm GeoJSON to Interactive Web Maps and Spatial Joins
-**Author:** Emmanuel Oyekanlu — Principal Data Engineer
+**Author:** Emmanuel Oyekanlu — Principal Data/AI Solutions Engineer
 
 ---
 
