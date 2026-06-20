@@ -361,5 +361,5 @@ def get_fields(region: str, crop_type: Optional[str] = None):
 
 ---
 
-*Built by Emmanuel Oyekanlu — Principal Data Engineer*
-*Specializing in AGV/AMR systems, precision agriculture, and geospatial data pipelines.*
+*Built by Emmanuel Oyekanlu — Principal AI/Data Solutions Engineer*
+
