@@ -1,0 +1,87 @@
+{
+  "type": "FeatureCollection",
+  "name": "fresno_irrigation_districts",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "IRZ-001",
+      "properties": {
+        "zone_id": "IRZ-001",
+        "zone_name": "Fresno Irrigation District North",
+        "water_source": "Kings River",
+        "district_code": "FID-N",
+        "annual_allocation_af": 12500,
+        "delivery_method": "canal",
+        "established_year": 1891
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-119.7150, 36.6980],
+            [-119.6550, 36.6980],
+            [-119.6550, 36.7230],
+            [-119.7150, 36.7230],
+            [-119.7150, 36.6980]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "IRZ-002",
+      "properties": {
+        "zone_id": "IRZ-002",
+        "zone_name": "Fresno Irrigation District South Extension",
+        "water_source": "San Joaquin River",
+        "district_code": "FID-SE",
+        "annual_allocation_af": 8300,
+        "delivery_method": "pipeline",
+        "established_year": 1952
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-119.6880, 36.7180],
+            [-119.6580, 36.7180],
+            [-119.6580, 36.7380],
+            [-119.6880, 36.7380],
+            [-119.6880, 36.7180]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "IRZ-003",
+      "properties": {
+        "zone_id": "IRZ-003",
+        "zone_name": "Westlands Water District East Sector",
+        "water_source": "Central Valley Project (Federal)",
+        "district_code": "WWD-E",
+        "annual_allocation_af": 22000,
+        "delivery_method": "canal",
+        "established_year": 1952
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-119.7150, 36.7200],
+            [-119.6880, 36.7200],
+            [-119.6880, 36.7380],
+            [-119.7150, 36.7380],
+            [-119.7150, 36.7200]
+          ]
+        ]
+      }
+    }
+  ]
+}
